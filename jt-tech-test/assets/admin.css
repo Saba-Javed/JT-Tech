@@ -1,0 +1,36 @@
+/**
+ * Admin stylesheet for the JT Tech Test plugin.
+ *
+ * Only loaded on the plugin's own admin screen.
+ */
+
+.jt-tech-test-wrap .jt-tech-test-card {
+	max-width: 640px;
+	margin: 20px 0;
+	padding: 4px 20px 16px;
+	background: #fff;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba( 0, 0, 0, 0.04 );
+}
+
+.jt-tech-test-wrap .jt-tech-test-card h2 {
+	margin-top: 0.5em;
+	padding-bottom: 0.4em;
+	border-bottom: 1px solid #dcdcde;
+}
+
+.jt-tech-test-wrap .jt-tech-test-card ul {
+	margin: 0;
+	list-style: disc;
+	padding-left: 20px;
+}
+
+.jt-tech-test-wrap .jt-tech-test-card ul li {
+	margin-bottom: 0.5em;
+}
+
+.jt-tech-test-wrap .jt-tech-test-card ul li strong {
+	display: inline-block;
+	min-width: 110px;
+}

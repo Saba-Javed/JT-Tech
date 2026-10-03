@@ -1,4 +1,3 @@
-# JT-Tech
-JT Tech repository
-hello
-how are you 
+# Arena GitHub Test
+
+This repository was updated by Arena.
